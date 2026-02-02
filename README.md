@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
 <h3>Opa! Meu nome é Iuker Souza.</h3>
-<p>Tenho 20 anos e atualmente estou cursando Ciência da Computação!</p>
+<p>Tenho 20 anos e atualmente estou cursando Ciência da Computação!(7º Período)</p>
 
 </div>
 
@@ -57,20 +57,11 @@
 ### 📊 Estatísticas
 
 <p>
-  <img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=Zkerrs&show_icons=true&theme=tokyonight&locale=pt-br" 
-/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zkerrs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zkerrs&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
 </p>
 
