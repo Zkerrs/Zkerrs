@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
 <h3>Opa! Meu nome é Iuker Souza.</h3>
-<p>Tenho 20 anos e atualmente estou cursando Ciência da Computação!(7º Período)</p>
+<p>Tenho 21 anos e atualmente estou cursando Ciência da Computação! (7º Período)</p>
 
 </div>
 
