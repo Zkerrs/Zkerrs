@@ -58,6 +58,8 @@
 
 <p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zkerrs&theme=high-contrast&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zkerrs&show_icons=true&theme=tokyonight&locale=pt-br" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&langs_count=7&theme=tokyonight" />
