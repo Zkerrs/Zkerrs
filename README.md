@@ -38,7 +38,7 @@
   <h4>⚡ Linguagens & Frameworks</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css,flask,django,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css,bootstrap,flask" />
     </a>
   </p>
     
