@@ -1,20 +1,20 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0070F2&height=120&section=header"/>
 
-  <h3>🚀 Opa! Meu nome é Iuker Souza.</h3>
+  <h3>Opa! Meu nome é Iuker Souza.</h3>
   <p>Tenho 21 anos e atualmente estou cursando <b>Ciência da Computação</b> (7º Período).</p>
 
   <br>
 
   <h3>💻 Sobre Mim</h3>
   <p>
-    Desenvolvedor focado no ecossistema <b>SAP<b> e Data Analysis.
+    Desenvolvedor focado no ecossistema <b>SAP</b> e <b>Data Analysis</b>.
   </p>
   
   <p>
     Minha experiência prática está centrada no <b>ecossistema SAP</b>, com habilidades em 
     <b>ABAP</b>, <b>Datasphere</b>, <b>SAC</b> e <b>CAP</b>. 
-    <br>Adicionalmente, possuo uma base sólida em desenvolvimento <b>Back-end com Python</b> e <b>bancos de dados SQL</b>, o que me permite criar soluções de dados completas de ponta a ponta.
+    <br>Adicionalmente, possuo uma base sólida em desenvolvimento <b>Back-end com Python</b> e <b>bancos de dados SQL</b>, o que me permite criar soluções de dados completas.
   </p>
 
   <a href="https://www.linkedin.com/in/iukersouza/" target="_blank">
@@ -25,7 +25,7 @@
 
   <h3>⚙️ Tecnologias que Utilizo</h3>
   
-  <h4>🟦 Ecossistema SAP</h4>
+  <h4>☁️ Ecossistema SAP</h4>
   <p>
     <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA">
     <img src="https://img.shields.io/badge/SAP%20GUI-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GUI">
@@ -35,17 +35,24 @@
     <img src="https://img.shields.io/badge/SAP%20CAP-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP CAP">
   </p>
   
-  <h4>🟧 Linguagens & Frameworks</h4>
+  <h4>⚡ Linguagens & Frameworks</h4>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css,flask,django,bootstrap" />
     </a>
   </p>
     
-  <h4>🗄️ Bancos de Dados & Ferramentas</h4>
+  <h4>🗄️ Bancos de Dados</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,linux,vscode,eclipse,postman" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" />
+    </a>
+  </p>
+
+  <h4>🛠️ Ferramentas & Plataformas</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,postman" />
     </a>
   </p>
   
