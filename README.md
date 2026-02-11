@@ -45,7 +45,7 @@
   <h4>🗄️ Bancos de Dados</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
     </a>
   </p>
 
