@@ -61,10 +61,7 @@
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&font=inter&custom_title=Top%20Languages" alt="Top Langs" />
 
   <br><br>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Zkerrs&theme=tokyo-night&radius=16&hide_border=true&area=true" />
-  </a>
+  
   </div>
 </div>
 
