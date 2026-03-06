@@ -54,7 +54,7 @@
 <div>
   <h3>📊 Estatísticas & Contribuições</h3>
 
-  <div align="center">
+  <div align="">
   <br>
 
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&font=inter&custom_title=Top%20Languages" alt="Top Langs" />
