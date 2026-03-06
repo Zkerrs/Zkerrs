@@ -57,7 +57,6 @@
   <div align="center">
   <br>
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Zkerrs&theme=tokyonight&hide_border=true&font=inter" alt="Streak" />
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&font=inter&custom_title=Top%20Languages" alt="Top Langs" />
 
   <br><br>
