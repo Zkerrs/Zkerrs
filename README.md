@@ -13,40 +13,23 @@
 
 ## Sobre mim
 
-- Estudante de **Ciência da Computação** (7º período), 21 anos.
-- Atuo com foco no ecossistema **SAP** e em **Data & Analytics**.
-- Experiência prática com **ABAP**, **Datasphere**, **SAC** e **CAP**.
-- Base sólida em **Back-end com Python** e **bancos de dados SQL**.
-- Busco transformar dados em informação estratégica para apoiar decisões de negócio.
+- 🎓 Estudante de **Ciência da Computação** (7º período).
+- 💼 Foco em **SAP**, **Data Engineering** e **Business Analytics**.
+- 📊 Experiência com **ABAP**, **Datasphere**, **SAC**, **CAP**, **Python** e **SQL**.
+- 🚀 Objetivo: criar soluções orientadas por dados para tomada de decisão.
 
-## Destaques da jornada
+## Highlights
 
-- **1+ ano** de experiência prática no ecossistema SAP.
-- Atuação em **2 empresas**, colaborando com times e entregas reais.
-- **6+ projetos entregues**, com foco em soluções de dados e analytics.
+- `1+ ano` na carreira SAP
+- `2 empresas` com atuação em projetos reais
+- `6+ projetos` entregues em dados e analytics
 
-## Experiência profissional
+## O que eu faço
 
-### Consultor SAP Analytics Júnior
-
-- Atuação técnica em arquitetura de dados e analytics para inteligência de negócio.
-- **SAP Datasphere**: modelagem de dados, integração de fontes e governança em nuvem.
-- **SAP Analytics Cloud (SAC)**: criação de relatórios analíticos e suporte em processos de planning.
-- **Backend & ABAP**: extração de dados e desenvolvimento de CDS Views no S/4HANA.
-- **Banco de dados**: estruturação e otimização de consultas SAP HANA (Cloud e On-Premise).
-
-### Base construída em consultoria (estágio)
-
-- Apoio no desenvolvimento inicial de soluções em SAP Analytics Cloud (SAC).
-- Suporte em rotinas no SAP Datasphere e documentação técnica/funcional.
-- Participação em demandas com SAP ABAP e ambiente HANA On-Premise.
-
-## Competências em foco
-
-- Arquitetura e modelagem de dados para performance e integridade.
-- Business Intelligence com dashboards e relatórios orientados à decisão.
-- Integração entre dados, regras de negócio e visualização executiva.
-- Evolução contínua por meio de estudos e especializações na plataforma SAP.
+- Modelagem e governança de dados com **SAP Datasphere**.
+- Criação de dashboards e relatórios no **SAP Analytics Cloud (SAC)**.
+- Extração e transformação de dados com **ABAP** e **CDS Views**.
+- Estruturação de consultas em **SAP HANA**, **PostgreSQL** e SQL.
 
 ## Stack principal
 
