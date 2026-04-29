@@ -21,7 +21,7 @@
 ## Highlights
 
 - `1+ ano` na carreira SAP
-- `2 empresas` com atuação em projetos reais
+- Tabalhando em `2 empresas` com atuação em projetos
 - `6+ projetos` entregues em dados e analytics
 
 ## O que eu faço
