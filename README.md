@@ -4,11 +4,6 @@
 
 ### Desenvolvedor focado em SAP + Data Analysis
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Zkerrs&style=for-the-badge&color=0e75b6" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Zkerrs?style=for-the-badge&color=1f6feb" alt="GitHub followers" />
-</p>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zukerrfz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iukersouza/)
 
@@ -55,4 +50,6 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zkerrs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zkerrs&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
