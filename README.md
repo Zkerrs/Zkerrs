@@ -1,17 +1,17 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,26&section=header&text=Iuker%20Souza&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,20,24,26&section=header&animation=fadeIn" alt="Header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=4EA1FF&center=true&vCenter=true&width=750&lines=Consultor+SAP+Analytics;Data+Engineering+%7C+Business+Analytics;ABAP+%7C+Datasphere+%7C+SAC+%7C+SQL" alt="Typing animation" />
+  <h1>Iuker Souza</h1>
+  <p><strong>Consultor SAP Analytics</strong> | Data Engineering | Business Analytics</p>
 
   <p>
-    <a href="https://instagram.com/zukerrfz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.linkedin.com/in/iukersouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/zukerrfz">📸 Instagram</a>
+    •
+    <a href="https://www.linkedin.com/in/iukersouza/">💼 LinkedIn</a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/SAP-0070F2?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
-    <img src="https://img.shields.io/badge/Data%20Engineering-1B73E8?style=flat-square" alt="Data Engineering" />
-    <img src="https://img.shields.io/badge/Business%20Analytics-0E7490?style=flat-square" alt="Business Analytics" />
+    <code>SAP</code> <code>Data Engineering</code> <code>Business Analytics</code>
   </p>
 </div>
 
@@ -22,9 +22,7 @@ Focado em transformar dados em informacao estrategica para decisoes de negocio, 
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Carreira%20SAP-1%2B%20ano-0A66C2?style=for-the-badge" alt="Carreira SAP" />
-  <img src="https://img.shields.io/badge/Empresas-2-0EA5E9?style=for-the-badge" alt="Empresas" />
-  <img src="https://img.shields.io/badge/Projetos%20entregues-6%2B-2563EB?style=for-the-badge" alt="Projetos" />
+  <code>1+ ano em SAP</code> <code>2 empresas</code> <code>6+ projetos entregues</code>
 </div>
 
 <h2 align="center">🧩 O que eu faco</h2>
