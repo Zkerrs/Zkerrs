@@ -27,7 +27,7 @@
 
 ## Experiência profissional
 
-### Seven Seven IT - Consultor SAP Analytics Júnior
+### Consultor SAP Analytics Júnior
 
 - Atuação técnica em arquitetura de dados e analytics para inteligência de negócio.
 - **SAP Datasphere**: modelagem de dados, integração de fontes e governança em nuvem.
