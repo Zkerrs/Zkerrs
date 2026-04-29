@@ -2,7 +2,7 @@
 
 # Iuker Souza
 
-### Desenvolvedor focado em SAP + Data Analysis
+### Consultor SAP Analytics | Dados e negocio
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zukerrfz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iukersouza/)
@@ -21,7 +21,7 @@
 ## Highlights
 
 - `1+ ano` na carreira SAP
-- Tabalhando em `2 empresas` com atuação em projetos
+- Trabalhando em `2 empresas` com projetos
 - `6+ projetos` entregues em dados e analytics
 
 ## O que eu faço
