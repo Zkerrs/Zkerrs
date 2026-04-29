@@ -13,16 +13,40 @@
 
 ## Sobre mim
 
-- Estudante de **Ciência da Computação** (7o periodo), 21 anos.
-- Atuo com foco no ecossistema **SAP** e em **analise de dados**.
-- Experiencia pratica com **ABAP**, **Datasphere**, **SAC** e **CAP**.
-- Base solida em **Back-end com Python** e **bancos de dados SQL**.
+- Estudante de **Ciência da Computação** (7º período), 21 anos.
+- Atuo com foco no ecossistema **SAP** e em **Data & Analytics**.
+- Experiência prática com **ABAP**, **Datasphere**, **SAC** e **CAP**.
+- Base sólida em **Back-end com Python** e **bancos de dados SQL**.
+- Busco transformar dados em informação estratégica para apoiar decisões de negócio.
 
 ## Destaques da jornada
 
-- **1+ ano** de experiencia pratica no ecossistema SAP.
-- Participacao profissional em **2 empresas**, colaborando com times e entregas reais.
-- **6+ projetos prontos**, com foco em solucao de negocio e analise de dados.
+- **1+ ano** de experiência prática no ecossistema SAP.
+- Atuação em **2 empresas**, colaborando com times e entregas reais.
+- **6+ projetos entregues**, com foco em soluções de dados e analytics.
+
+## Experiência profissional
+
+### Seven Seven IT - Consultor SAP Analytics Júnior
+
+- Atuação técnica em arquitetura de dados e analytics para inteligência de negócio.
+- **SAP Datasphere**: modelagem de dados, integração de fontes e governança em nuvem.
+- **SAP Analytics Cloud (SAC)**: criação de relatórios analíticos e suporte em processos de planning.
+- **Backend & ABAP**: extração de dados e desenvolvimento de CDS Views no S/4HANA.
+- **Banco de dados**: estruturação e otimização de consultas SAP HANA (Cloud e On-Premise).
+
+### Base construída em consultoria (estágio)
+
+- Apoio no desenvolvimento inicial de soluções em SAP Analytics Cloud (SAC).
+- Suporte em rotinas no SAP Datasphere e documentação técnica/funcional.
+- Participação em demandas com SAP ABAP e ambiente HANA On-Premise.
+
+## Competências em foco
+
+- Arquitetura e modelagem de dados para performance e integridade.
+- Business Intelligence com dashboards e relatórios orientados à decisão.
+- Integração entre dados, regras de negócio e visualização executiva.
+- Evolução contínua por meio de estudos e especializações na plataforma SAP.
 
 ## Stack principal
 
