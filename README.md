@@ -15,8 +15,17 @@
 
 - Estudante de **Ciência da Computação** (7o periodo), 21 anos.
 - Atuo com foco no ecossistema **SAP** e em **analise de dados**.
+- Estou ha **mais de 1 ano** na carreira SAP.
+- Ja atuei em **duas empresas** com projetos SAP.
+- Tenho **mais de 6 projetos** entregues.
 - Experiencia pratica com **ABAP**, **Datasphere**, **SAC** e **CAP**.
 - Base solida em **Back-end com Python** e **bancos de dados SQL**.
+
+## Destaques da jornada
+
+- **1+ ano** de experiencia pratica no ecossistema SAP.
+- Participacao profissional em **2 empresas**, colaborando com times e entregas reais.
+- **6+ projetos prontos**, com foco em solucao de negocio e analise de dados.
 
 ## Stack principal
 
