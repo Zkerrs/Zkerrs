@@ -1,63 +1,58 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,20,24,26&section=header&animation=fadeIn" alt="Header" />
+# Iuker Souza
 
-  <h1>Iuker Souza</h1>
-  <p><strong>Consultor SAP Analytics</strong> | Data Engineering | Business Analytics</p>
+> **Consultor SAP Analytics** · Data Engineering · Business Analytics
+>
+> [Instagram](https://instagram.com/zukerrfz) · [LinkedIn](https://www.linkedin.com/in/iukersouza/) · [Contato](mailto:)
 
-  <p>
-    <a href="https://instagram.com/zukerrfz">📸 Instagram</a>
-    •
-    <a href="https://www.linkedin.com/in/iukersouza/">💼 LinkedIn</a>
-  </p>
+---
 
-  <p>
-    <code>SAP</code> <code>Data Engineering</code> <code>Business Analytics</code>
-  </p>
-</div>
+## Sobre mim
 
-<h2 align="center">🚀 Sobre mim</h2>
+Transformo dados em informação estratégica para apoiar decisões de negócio, com experiência prática em **SAP** e **analytics**.
 
-<p align="center">
-Focado em transformar dados em informacao estrategica para decisoes de negocio, com experiencia pratica no ecossistema SAP e analytics.
-</p>
+- 1+ ano de experiência em SAP
+- 2 empresas
+- 9+ projetos entregues
 
-<div align="center">
-  <code>1+ ano em SAP</code> <code>2 empresas</code> <code>6+ projetos entregues</code>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zkerrs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&border_radius=16)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zkerrs&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&border_radius=16)
 
-<h2 align="center">🧩 O que eu faco</h2>
+---
 
-- Modelagem e governanca de dados com **SAP Datasphere**.
-- Criacao de dashboards e relatorios no **SAP Analytics Cloud (SAC)**.
-- Extracao e transformacao de dados com **ABAP** e **CDS Views**.
-- Estruturacao e otimizacao de consultas em **SAP HANA**, **PostgreSQL** e SQL.
+## O que eu faço
 
-<h2 align="center">⚙️ Stack principal</h2>
+**SAP Datasphere** — modelagem e governança de dados
 
-<h3>☁️ Ecossistema SAP</h3>
-<p>
-  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA" />
-  <img src="https://img.shields.io/badge/SAP%20GUI-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GUI" />
-  <img src="https://img.shields.io/badge/SAP%20ABAP-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
-  <img src="https://img.shields.io/badge/SAP%20Datasphere-001E4E?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Datasphere" />
-  <img src="https://img.shields.io/badge/SAP%20SAC-1E1E1E?style=for-the-badge&logo=sap&logoColor=white" alt="SAP SAC" />
-  <img src="https://img.shields.io/badge/SAP%20CAP-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP CAP" />
-</p>
+**SAP Analytics Cloud** — dashboards e relatórios
 
-<h3>💻 Linguagens e ferramentas</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,ts,js,react,html,css,postgres,docker,git,postman,linux,vscode" alt="Skills" />
-</p>
+**ABAP & CDS Views** — extração e transformação de dados
 
-<h2 align="center">📊 GitHub insights</h2>
+**HANA · PostgreSQL · SQL** — consultas e otimização
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zkerrs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br /><br />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zkerrs&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" />
-</div>
+---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,20,24,26&section=footer" alt="Footer" />
-</div>
+## Stack
+
+**Ecossistema SAP**
+
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP GUI](https://img.shields.io/badge/SAP_GUI-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Datasphere](https://img.shields.io/badge/SAP_Datasphere-001E4E?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Analytics Cloud](https://img.shields.io/badge/SAP_Analytics_Cloud-1E1E1E?style=for-the-badge&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+
+**Linguagens e ferramentas**
+
+![Skills](https://skillicons.dev/icons?i=py,nodejs,ts,js,react,html,css,postgres,docker,git,postman,linux,vscode&perline=8)
+
+---
+
+## GitHub
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zkerrs&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&radius=12)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=6&border_radius=16)
+
+
+---
