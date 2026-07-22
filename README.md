@@ -1,8 +1,10 @@
-
+<!--
+  GitHub Profile README — cole no repositório: Zkerrs/Zkerrs (README.md)
+-->
 
 <div align="center">
 
-# Iuker de Souza Santos
+# 👋 Iuker de Souza Santos
 
 **💻 Consultor SAP Analytics** · CDS · Datasphere · SAC (BI & Planning)
 
@@ -75,15 +77,20 @@ Analytics FI/CO (DRE, Balanço, Fluxo de Caixa, Contas a Pagar/Receber), SD (ven
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats-plus.vercel.app/api/top-langs/?username=Zkerrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=6&border_radius=16)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zkerrs&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&radius=12)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zkerrs&theme=tokyonight"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zkerrs&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zkerrs&theme=tokyonight"/>
+</div>
+
+<br/>
 
 ---
 
