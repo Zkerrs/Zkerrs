@@ -1,6 +1,4 @@
-<!--
-  GitHub Profile README — cole no repositório: Zkerrs/Zkerrs (README.md)
--->
+
 
 <div align="center">
 
@@ -51,6 +49,9 @@ Consultas, transformação e ajuste de performance para garantir integridade e v
 
 📈 **Domínios que atendo**  
 Analytics FI/CO (DRE, Balanço, Fluxo de Caixa, Contas a Pagar/Receber), SD (vendas × faturamento, margem) e apoio à decisão com relatórios acionáveis.
+
+🤖 **Automação & agentes de IA (n8n)** — *extra*  
+Uso **n8n** para montar fluxos e agentes de IA que aceleram o dia a dia: integrações com o **ecossistema SAP** e também com ferramentas **fora do SAP** (APIs, notificações, processos internos). É um complemento prático à stack de analytics, cada vez mais presente no trabalho.
 
 ---
 
